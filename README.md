@@ -1,2 +1,4 @@
 # Drone
-Dette er en tekst
+
+Dette er vores p4 projekt omhandlende dron
+Lavet af Rasmus, Rasmus Johs, og emily
